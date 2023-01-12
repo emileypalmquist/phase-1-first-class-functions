@@ -1,0 +1,3 @@
+function receivesAFunction(funct){
+    funct();
+}
